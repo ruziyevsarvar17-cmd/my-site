@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://my-site-blush-tau.vercel.app/sitemap.xml
